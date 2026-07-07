@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🤖 **Robotics Enthusiast | AI & Machine Learning Enthusiast | Researcher**<br><br>Driven by a passion for robotics, artificial intelligence, and automation, I develop intelligent solutions that address real-world challenges. My interests include deep learning, computer vision, edge AI, explainable AI, and intelligent autonomous systems. Continuously learning, conducting research, and building impactful projects that bridge innovation with practical applications.<br><br>🚀 I'm always open to collaborating on exciting AI, robotics, and research projects. Feel free to explore my repositories, share your suggestions, report issues, or contribute—every idea and contribution is appreciated!<br><br>
 
 
